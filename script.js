@@ -33,14 +33,14 @@ $(document).ready(function() {
   // typing animation script
     
     var typed = new Typed(".typing",{
-        strings: ["Banking Prof'l","MBA in Finance","MS Excel Expert"],
+        strings: ["Banking and Finance Professional"],
         typeSpeed: 100,
         backSpeed: 60,
-        loop: true
+        loop: false
     });
     
     var typed = new Typed(".typing-2",{
-        strings: ["Banking Prof'l","Digital Creator","Financial Advisor"],
+        strings: ["Banking Prof'l", "Finance Prof'l"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
